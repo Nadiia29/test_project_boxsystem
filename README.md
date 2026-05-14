@@ -104,7 +104,7 @@ Transition to interior environment & video fade-in
  - ScrollTrigger for staggered motion
 
 🛠 Installation & Setup
-git clone https://github.com/YOUR_USERNAME/test_project_boxsystem
+git clone (https://github.com/Nadiia29/test_project_boxsystem)
 cd test_project_boxsystem
 npm install
 npm start
